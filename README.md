@@ -4,6 +4,10 @@ Fragaria is a Cocoa syntax colouring NSTextView. This offshoot is specific to PH
 ### Where did it come from?
 Fragaria is the vital pulp of Smultron (now Fraise). It's also the vital pulp of this bastardization. I learned a lot from this project, and you might too.
 
+### Fragaria
+
+https://github.com/mugginsoft/Fragaria
+
 Fragria is implemented as a framework that supports both reference counting and GC.
 
 Thanks to Rui Pacheco for the RC changes.
